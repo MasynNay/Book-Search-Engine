@@ -9,7 +9,7 @@ An application that utilizes the Google Book API to allow users to browse and ex
  * [User Story](#user-story)
  * [Acceptance Criteria](#acceptance-criteria)
  * [Installation](#installation)
- * [Application Demonstration](#application-demonstration)
+ * [Application Demonstrations](#application-demonstrations)
  * [Live Application](#Live-Application)
 
 ## User Story
@@ -59,9 +59,10 @@ Right click on the main directory and click "Open in integrated terminal"
 type "npm i" to install dependencies (you must do this inside of the server folder, client folder, and root directory)
 type "npm run start" to start
 
-## Application Demonstration
+## Application Demonstrations
 
 ![](./public/images/demo.png)
+![](./public/images/demo2.png)
 
 ## Live Application
 
