@@ -63,8 +63,8 @@ type "npm run start" to start
 
 ## Application Demonstrations
 
-![](./public/images/demo.png)
-![](./public/images/demo2.png)
+![](./public/demo.png)
+![](./public/demo2.png)
 
 ## Live Application
 
