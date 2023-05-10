@@ -55,9 +55,11 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ```
 ## Installation
 
+```md
 Right click on the main directory and click "Open in integrated terminal" 
 type "npm i" to install dependencies
 type "npm run start" to start
+```
 
 ## Application Demonstrations
 
