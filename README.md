@@ -56,7 +56,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ## Installation
 
 Right click on the main directory and click "Open in integrated terminal" 
-type "npm i" to install dependencies (you must do this inside of the server folder, client folder, and root directory)
+type "npm i" to install dependencies
 type "npm run start" to start
 
 ## Application Demonstrations
